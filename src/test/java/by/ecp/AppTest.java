@@ -23,7 +23,7 @@ public class AppTest {
       Calculator calculator = new Calculator();
       Assert.assertEquals("Некорректно умножение!", 8.0, calculator.multiply(4.0, 2.0), 0.00001);
    }
-
+//hhhhhhhh
 //   @Test(expected = ArithmeticException.class)
 //   public void testDivision(){
 //      Calculator calculator = new Calculator();
